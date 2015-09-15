@@ -1,0 +1,16 @@
+<!-- custom.css -->
+<style>
+.text_cell_render > table {
+    empty-cells:hide;
+    border-style:hidden;
+    border-style:collapse;
+}
+
+.text_cell_render > table td {
+    border-style:hidden;
+}
+
+.text_cell_render > table th {
+    border-style:hidden;
+}
+</style>
