@@ -1,0 +1,4 @@
+:set -XNoMonomorphismRestriction 
+:set -XFlexibleContexts
+:set -XTypeFamilies
+
